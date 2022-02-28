@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Repenting sinner pardoned being a brief relation of the wicked life, and penitent pious death of James Wilson of Wolverhampton in Stafford-shire, who died February 21. 1668 / made publick by such as were ear and eye witnesses of the same, for a warning to such as live ungodly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91651</idno>
+            <idno type="STC">Wing R1046C</idno>
+            <idno type="STC">ESTC R42561</idno>
+            <idno type="EEBO-CITATION">36282331</idno>
+            <idno type="OCLC">ocm 36282331</idno>
+            <idno type="VID">150223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Repenting sinner pardoned being a brief relation of the wicked life, and penitent pious death of James Wilson of Wolverhampton in Stafford-shire, who died February 21. 1668 / made publick by such as were ear and eye witnesses of the same, for a warning to such as live ungodly.</title>
+                  <author>Wilson, James, d. 1668.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nevil Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilson, James, d. 1668.</term>
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150223:1" rendition="simple:additions"/>
+            <p>THE REPENTING SINNER Pardoned: BEING A Brief Relation of the Wicked Life, and Penitent Pious Death of <hi>James Wilſon</hi> of <hi>Wolverhampton</hi> in <hi>Stafford-ſhire:</hi> who died <hi>February</hi> 21. 1668.</p>
+            <p>Made publick by ſuch as were Ear and Eye Witneſſes of the ſame;</p>
+            <p>
+               <hi>For a warning to ſuch as live ungodly.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 28.13.</hi>
+               </bibl> He that covereth his Sins ſhall not proſper, but who ſo confeſſeth and forſa<g ref="char:EOLhyphen"/>keth them ſhall have mercy.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nevil Simmons</hi> at the three <hi>Crowns</hi> at <hi>Holborn</hi> Conduit. 1669.</p>
+            <pb facs="tcp:150223:2" rendition="simple:additions"/>
+            <pb facs="tcp:150223:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:150223:3"/>
+            <pb n="3" facs="tcp:150223:3"/>
+            <head>The Repenting Sinner pardoned, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath ſeveral wayes to convince the world of the Evil of Sin, and of the ex<g ref="char:EOLhyphen"/>cellency, ſafety, and goodneſs of his holy wayes. Amongſt the reſt, this is one (which ſometimes the uſeth, in a place where ſin is countenanced, and godlineſs decryed, diſowned, and reproached.) He maketh the mouths of the moſt vile (if any have been more vile than others) to prclaim before they die, with the greateſt ſeriouſneſs, and ſin abhorrency, the odiouſneſs of the ſins they have lived in, and per<g ref="char:EOLhyphen"/>ſwade
+<pb n="4" facs="tcp:150223:4"/>with the moſt powerfull per<g ref="char:EOLhyphen"/>ſwaſions all about them to loath and leave the ſame.</p>
+            <p>And as ſeriouſly doth his goodneſs make them own the ſcorn'd at, and deſpiſed wayes of godlineſs; and as earneſtly perſwade others to them; which the Lord doth as in mercy to the ſinner himſelf: ſo alſo that ſuch as have been Companions in the ſame impieties, may be warned by the mouth of their Leader, to renounce the ſins they have lived in, and to fol<g ref="char:EOLhyphen"/>low him in repentance, as they follow<g ref="char:EOLhyphen"/>ed him in ſin: whileſt the Penitent lives and warns his ungodly fellows with his own tongue; they ſeem to regard, and poſſibly may have ſome toughts of returning to God; but when the Preacher of repentance hath his mouth ſhut up, and he is ſilent and cold in his grave, they let ſlip all thoughts of reformation, and begin afreſh to purſue their luſts, and wear off the fears they had of God's Anger
+<pb n="5" facs="tcp:150223:4"/>for ſin, and leave their ſhort loathing of their wicked wayes; and as gree<g ref="char:EOLhyphen"/>dily return to their wayes of folly as if they never had a call, or cauſe to leave them.</p>
+            <p>It is undoubtedly the duty of all, but eſpecially of thoſe that abide in ſin, and ſcorn at the wayes and means of holineſs, to regard the warnings they have from the mouths of their Com<g ref="char:EOLhyphen"/>panions, who have taſted of the ſweet<g ref="char:EOLhyphen"/>neſs of ſin &amp; have known the beſt of it, and at a dying hour, when they ſhould be wiſeſt have declared thir Judge<g ref="char:EOLhyphen"/>ment concerning the wayes of ſin and the wayes of God.</p>
+            <p>And it is the concernment of every living man, to remember and to lay to heart the Councels of dying men, and the concluſion of their time and life, eſpecially of ſuch as have been viſible, open, known and noted for the common vices and faults of mankind, and have the grace given them of the Lord to ſee the evil thereof.</p>
+            <pb n="6" facs="tcp:150223:5"/>
+            <p>The ſenſe of our duty herein, hath occaſioned this enſuing Narrative.</p>
+            <p>IN <hi>Wolverhampton</hi> in <hi>Stafford-ſhire,</hi> there dwelt a young man, a Wi<g ref="char:EOLhyphen"/>dows Son, whoſe Father and Grand-Father had owned, and walked in the wayes of God, and left many Prayers on record for their poſterity. His Name was <hi>James Wilſon,</hi> about twen<g ref="char:EOLhyphen"/>ty four years of age; one that had de<g ref="char:EOLhyphen"/>generated from the wayes of his fore<g ref="char:EOLhyphen"/>fathers, and ſpent his time in fulfilling the luſts of his fleſh, following the ſins of Drunkenneſs, Sabbath-breaking, Swearing, and all manner of debau<g ref="char:EOLhyphen"/>chery. He delighted not in following his Calling diligently, but was given to Cocking, and Company-keeping; he was a ſcorner at godlineſs, and a Jeerer at thoſe that ſerved God, and a reproacher of his Siſter, and ſuch as deſired to fear the Lord and ſerve him; He was very froward and ill<g ref="char:EOLhyphen"/>natured, croſs and dogged to thoſe
+<pb n="7" facs="tcp:150223:5"/>in the Family, and led them very un<g ref="char:EOLhyphen"/>comfortable lives; but he was very courteous and pleaſing to ſtrangers, and to the Neighbours; that his Com<g ref="char:EOLhyphen"/>panions much delighted in him, and were glad of his Company when he was ſober. In theſe prophane wayes he lived, ſeldom coming to the pub<g ref="char:EOLhyphen"/>lick worſhip of God, or minding the ſervice of God in private, though he could read if he pleaſed: but his heart was hardned againſt God and godli<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Upon the 14. day of <hi>February</hi> 1668. he was according to his uſual manner, vainly paſſing away the day of the Lord in folly and vanity, without any ſenſe of God upon him, or regard of the Life to come. In the beginning of the Week he was ſent to <hi>Stafford</hi> Fair, where he was very wet and waded coming home; but he came home on the Wedneſday night; on the Thurſday, his friends perceived ſome trouble upon him, he went to
+<pb n="8" facs="tcp:150223:6"/>the Shop where he wrought, and told them there, that he was a dead man, and bad them farewell: He came home again and told his friends that he thought he ſhould not live, but they believed him not. He paſſed that day very ſeriouſly, and ſeemed to have much affliction on his Spirit; and the aſſurance he had on his heart of death approaching, made him reſtleſs. On the Friday morning ſome of our godly Neighbours came in, and fell into diſcourſe with him about eternal things and the Judge<g ref="char:EOLhyphen"/>ment Day to come, and minding him of a paſſage they had heard in a Ser<g ref="char:EOLhyphen"/>mon preach't on the Lord's day, by an ejected Miniſter in that Town. How terrible a thing it was to a wick<g ref="char:EOLhyphen"/>ed man to ariſe and come to Judge<g ref="char:EOLhyphen"/>ment; and how comfortable it would be to the righteous, who ſhould be as bold as a Lion: then he began to weep and ſhake his head, and was wofully diſturbed at their diſcourſe.
+<pb n="9" facs="tcp:150223:6"/>And when his Neighbours w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> away he earneſtly deſired their Prayers, and he caſt himſelf upon his bed moſt part of that day in a reſtleſs condition: on Saturday morning his bed-fellow aroſe and lighted him a Candle, and to him he began to impart his trouble; and told him he had been a great ſin<g ref="char:EOLhyphen"/>ner, and would fain have Chriſtians to pray for him; and alſo he ſaid he had been in Prayer to God for mercy the moſt part of that Night (now he begns to pray) and alſo he deſired his Siſter to ariſe and make him a fire, and reach him a Bible, and ſhe did glad<g ref="char:EOLhyphen"/>ly. Who as ſoon as he had the Bible, he fell a reading and a crying: And ſo he read &amp; wept, and wept and read till morning. Sometime he would read a good while, and then lay down the Bible and weep moſt bitterly, and could read no more a while. When it was day-light he lay on his bed with much affliction and horror for his ſin upon him, all the morning. At
+<pb n="10" facs="tcp:150223:7"/>laſt h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould hold in his Sin no longer, but opened his mind to his Siſter; and ſaid, Oh my dear Siſter! what a grie<g ref="char:EOLhyphen"/>vous wicked ſinner have I been, Oh! I have been as wicked a drunken ſwearing Rogue as ever lived, the earth never bare ſo vile a wretch. Oh Siſter, is there any mercy for me? She told him, that if he did now repent from the bottom of his heart for his Sin, there was hope. He fell a weep<g ref="char:EOLhyphen"/>ing grievouſly, and ſaid, that he did repent from the very bottom of his heart; Oh ſaid he, do you think that I dare diſſemble with God now, now I am ſo near death and another world, and many words to that purpoſe; and ſhaking his head, and looking on his Siſter with a dreadfull eye, earneſtly ſaid, That for all manner of Roguery he was as wicked a man as ever lived; and ſaid that no ſin came amiſs to him when he was drunk, and he had been ſo mad when he was drunk, that he did not fear all the Devills in Hell,
+<pb n="11" facs="tcp:150223:7"/>he car'd not what he did. And then his ſoul began to adore the Lord for his mercy to him, in keeping him from the Devil when he was drunk, and from committing Murther when he was near it, when he had been in drink: and alſo, that God had kept others from murthering him; and once from being drowned, when he was in danger of it; and that he was not ſwept away in his ſin. The ſenſe of theſe mercies made him weep bit<g ref="char:EOLhyphen"/>terly. And his Siſter added, that it is a mercy never to be forgotten, that after all his ſins and wicked life God ſhould wait to be gracious to him, and exalt himſelf to ſhew him mercy: at which his heart ſeemed to be won<g ref="char:EOLhyphen"/>derfully broken, and then more ear<g ref="char:EOLhyphen"/>neſtly than ever he deſired Prayers, both in publick and private; and beg<g ref="char:EOLhyphen"/>ging of every one that he thought to be godly, to pray hard for him; and did not ceaſe, but with the greateſt ear<g ref="char:EOLhyphen"/>neſtneſs did pray by himſelf: And
+<pb n="12" facs="tcp:150223:8"/>holding his Siſter by her hand he ſaid, That if the great Jehova would ſpare him this time; that where his Siſter went to look after Salvation, he would never forſake her company whilſt he lived, let his Companions jeer and ſcorn as much as they would, and did alſo tell her, that when he did jeer and ſcorn at her for going to the Meetings, his Conſcience did even then prick him, and he thought he did not do well in reproaching her, and he did moſt earneſtly profeſs, that it was his ſtrong Reſolution to break off with his old Companions, and to cloſe with the people of God, and walk with them, if God would ſpare him life.</p>
+            <p>His Siſter asked him, if ſuch and ſuch men had not been inſtruments of drawing him into ſin; and he ſaid no: none but himſelf drew him, he was the worſt inſtrument of his own dam<g ref="char:EOLhyphen"/>nation; no one was ſo bad as he, and if there was not great mercy
+<pb n="13" facs="tcp:150223:8"/>for him, he was utterly undone. He asked his friend this Queſtion, Whe<g ref="char:EOLhyphen"/>ther God made any one man to damn him? his friend told him, that God made man for himſelf, and it was for ſin which any committed, and lived and died in, that they were damned, and becauſe they would not come to Chriſt for life and ſalvation. He was then exceedingly troubled about his ſin, that at night he could not lie in his bed; but roſe about eleven of the clock, and fell to reading and weeping as he did before, till about one of the clock; when he had a great con<g ref="char:EOLhyphen"/>flict with Satan, for to his thinking he ſaid, he ſaw Satan, telling him of all his evil wayes, and bidding him ſwear and curſe as he had done; and he ſaid, avoid Satan, avoid: I am not now as I have been, I have now an Intereſt in Chriſt, and have for<g ref="char:EOLhyphen"/>ſaken my ſin: then the Devil bade him blaſpheme God, and he ſaid, he would not, but bade him avoid, and ſo he fell
+<pb n="14" facs="tcp:150223:9"/>a praying, and about two a clock Satan left him; then he went to his friend in bed &amp; asked him if he ſhould come to bed to him, and he bade him come, then he told him of the con<g ref="char:EOLhyphen"/>flict he had with Satan, and how he reſiſted him, and that he was gone; and thus they paſſed the reſt of the night in heavenly diſcourſe till the day broke on the Lord's day. When he roſe he told them that he ſhould die before Dinner, &amp; ſo loſe the Pray<g ref="char:EOLhyphen"/>ers of the people of God that were to be put up for him, which much affli<g ref="char:EOLhyphen"/>cted him, for he ſet much by Prayers, and would ask his Siſter if God would not remember the Prayers of thoſe that are now dead, that they put up in their life-time, for he knew his Father and Grand-father were much in that Duty.</p>
+            <p>He asked a Neighbour that came to viſit him, to read by him a Book that was lately ſet forth of a young man in <hi>London,</hi> that was a Murtherer,
+<pb n="15" facs="tcp:150223:9"/>and died for it: and when he heard ſome pretious promiſes, and that in particular, when a ſinner doth repent from the bottom of his heart God would have mercy on him, he wept bitterly and ſaid, That ſo far as he knew his heart he did repent unfeign<g ref="char:EOLhyphen"/>edly; and often deſired us to pray for him, that he might have longer time to repent.</p>
+            <p>When it pleaſed God to lengthen out his life till after Dinner, he was exceeding joyfull, for that he was in hopes to enjoy the benefit alſo of the Prayers of thoſe Chriſtians who meet together on that day to worſhip God, labouring to get acquaintance with him and his truth; that knowing his will they may do it, and in ſo do<g ref="char:EOLhyphen"/>ing find reſt for their Souls. And although ſuch Aſſemblings were the ſcorn of this young man, and reproach, yet on this day he was glad to have the caſe of his Soul preſented by them to the Father of Spirits; and how
+<pb n="16" facs="tcp:150223:10"/>glad would he have been, to have been there in perſon? But he deſires his Siſter to read by him, good friends came to viſit him, Madam <hi>L.</hi> did the office of a Gentlewoman and a good Chriſtian for his temporal and eternal good, ſhe brought and ſent him things proper for him; but ſuch was the hand of God upon him, that though he could eat, yet he could not ſwallow Drink or ſuch liquid things towards his end, which was marvel<g ref="char:EOLhyphen"/>lous in our eyes.</p>
+            <p>When he was told that an ejected Miniſter that preached in the Town that day, would come to viſit him, he was extreamly glad, and longed for him, and feared his breath would be ſtoped ere he could come; in the even<g ref="char:EOLhyphen"/>ing he came to him, as ſoon as he came to his bed ſide, he was wonderfully raiſed in his Spirit, that God had let him live to ſee his face, and took him by the hand and kiſſed it again and again, and ſaid, Oh Sir! I have
+<pb n="17" facs="tcp:150223:10"/>but two breaths to fetch in this world and I am gone; Oh, what ſhall I do to make my Calling and Election ſure? tell me quickly, for I am afraid I ſhall not ſpeak to you long.</p>
+            <p>The Miniſter thought at firſt, that he was through want of ſleep and the height of his diſtemper ſomewhat di<g ref="char:EOLhyphen"/>ſtracted he ſpake ſo eagerly, and re<g ref="char:EOLhyphen"/>peated things over ſo oft: yet though the diſtemper might be ſomething, af<g ref="char:EOLhyphen"/>ter we ſaw that the certain perſwaſion of the ſhortneſs of his time, the near<g ref="char:EOLhyphen"/>neſs of death and judgement, the wickedneſs of his life, and the fears of condemnation, made him ſo ex<g ref="char:EOLhyphen"/>ceeding earneſt in his expreſſions and prayer. And in all his diſcourſe he did not ſpeak any idle or impertinent word.</p>
+            <p>The Miniſter told him, he could not in two words help him to make his Election ſure, but muſt diſcourſe with him firſt about many things. And asked him why he did doubt of
+<pb n="18" facs="tcp:150223:11"/>his ſalvation, for moſt of the unged<g ref="char:EOLhyphen"/>ly think they are ſure of it?</p>
+            <p>He anſwered, Becauſe he had been ſo wicked a ſinner as ever breathed, and I fear there is no mercy for me?</p>
+            <p>The Miniſter ſaid, That all will cry out they are ſinners, when affliction is on them, when they are convinced of the evil of no particular ſin; yea, but ſaid he, I have been a wicked Drunkard, and a Sabbath breaker, and a prophane Swearer: and every one of theſe fins torment my ſoul; Oh, good Sir tell me, what ſhall I do for ſalvation, I would not caſt this poor ſoul into eternal miſery if I could eſcape it.</p>
+            <p>Canſt thou willingly leave theſe ſins ſaid he, as well as grieve for them?</p>
+            <p>Oh, if God would ſpare me, and give me time to live in the world; All ſhould know that I would never ſin as I have done ſaid he.</p>
+            <p>Haſt thou no hope that thy ſoul
+<pb n="19" facs="tcp:150223:11"/>may be ſaved from the ſin that is paſt?</p>
+            <p>
+               <hi>Anſwer,</hi> Said he, all my hope is in the mercy of God, and the Prayers of good people.</p>
+            <p>Then the Miniſter ſaid, That God was a mercifull God, and full of bow<g ref="char:EOLhyphen"/>els to poor ſinners; but he had no ſa<g ref="char:EOLhyphen"/>ving mercy now, to ſuch as were un<g ref="char:EOLhyphen"/>der the Goſpel, and out of Jeſus Chriſt; for he that made us will not ſave us, but on the account of ſatis<g ref="char:EOLhyphen"/>faction to his Juſtice, by Jeſus Chriſt, and it is now in Chriſt that thou muſt have redemption; and through his blood the remiſſion of thy ſins.</p>
+            <p>Thou muſt look upon God in Chriſt, who is God and man, and ex<g ref="char:EOLhyphen"/>pect redemption in his blood, and his blood only?</p>
+            <p>After this he wonderfully cryed our for redemption in the blood of Chriſt, and mercy in Chriſt, and then none but Chriſt would ſerve, that Chriſt ſeemed to be formed in him;
+<pb n="20" facs="tcp:150223:12"/>and all his Diſcourſe and Prayers ſa<g ref="char:EOLhyphen"/>voured of Chriſt ever after.</p>
+            <p>The Miniſter asked him why he had ſuch a deſire to ſee him and ſpeak with him, that he never ſaw before; neither did care for ſuch as he the o<g ref="char:EOLhyphen"/>ther day?</p>
+            <p>Becauſe ſaid he, I hear you area good man, and willing to teach the way of ſalvation; and though I never ſaw your face till now; yet if I live, I will be ſtill where you are, for you comfort my ſoul.</p>
+            <p>What thoughts have you of your Companions in ſin now, and why do you not deſire their Company?</p>
+            <p>Oh ſaith he, they come not to me now, but thoſe that do come, by the grace of God I will warn them to take heed of ſin. And when any did
+<pb n="21" facs="tcp:150223:12"/>come near, he would ask who's there, ſuch a one? yea; then he would ſay, Get Chriſt, get Chriſt; Oh, repent of ſin, make ſure of Chriſt; with ſuch ſeriouſneſs and life, that it moved the people much that heard him.</p>
+            <p>He asked the Miniſter, if he thought he had time enough to re<g ref="char:EOLhyphen"/>pent in, for he ſaid he was juſt dy<g ref="char:EOLhyphen"/>ing now; and he thought it was too ſhort, and that God would not ac<g ref="char:EOLhyphen"/>cept it.</p>
+            <p>He told him, that if it were true, it was long enough. The Thief on the Croſs was but a little while in repentance, and yet he was in Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>The ſoul may turn from ſin in a ſhort time, and turn to God in as ſhort.</p>
+            <p>Repentance is but a means the Mi<g ref="char:EOLhyphen"/>niſter
+<pb n="22" facs="tcp:150223:13"/>told him alſo, that if his heart was ſo grieved for ſin and afflicted, that he could wllingly turn from, leave and abhorr ſin, and as heartily embrace Chriſt Jeſus and an holy life, then his repentance was long e<g ref="char:EOLhyphen"/>nough, if he did now leave the world, and God would accept it, and bade him tronble himſelf more about the truth of his repentance than the time of it, or length of it. At which he ſeemed ſatisfied, for he ſaid ſtill he did repent for ſin with all the powers of his ſoul.</p>
+            <p>The Miniſter prayed with him, and he would earneſtly repeat ſome Petitions after him.</p>
+            <p>After Prayer the Miniſter ſpoke to him ſomething about his ſickneſs, and how he took it, and hoped that it was not to death, but that he might live, and let the world ſee his repen<g ref="char:EOLhyphen"/>tance
+<pb n="23" facs="tcp:150223:13"/>in his holy life. He ſaid there was no hope of his life, for he was juſt going out of the world; but if he did live, he would never be from the place where he preach'd and pray'd. But all his trouble was, that his Ele<g ref="char:EOLhyphen"/>ction was not ſure, ſo he ſpake to his Siſter, that he might be decently brought home; and that ſhe ſhould be ſure to do what he had ſpoken to her of; which was to pay ſome debts.</p>
+            <p>There was anothet Chriſtian that ſpoke to him many ſweet and pre<g ref="char:EOLhyphen"/>tious promiſes that God had made to repenting ſinners.</p>
+            <p>The Miniſter then took his leave of him, and ſpoke to this effect to him, That when God did make man, he made him for his own glory, and gave him a righteous Law to walk by: But man fell from God to ſin, and regarded not his law at all, but fol<g ref="char:EOLhyphen"/>lowed the temptations of the Devil
+<pb n="24" facs="tcp:150223:14"/>and his own Counſel, yet God had bowels of love in him ſtirring towards poor man, and ſent him a Redeemer Jeſus Chriſt, and in him made a Co<g ref="char:EOLhyphen"/>venant of grace and mercy; that though man had ſinned, yet if he would leave ſin, and return to God, receive his Son for his Lord and Sa<g ref="char:EOLhyphen"/>viour, he would again receive him into favour, and place him in his glory everlaſtingly; and to let the world know theſe things he publiſhed the Goſpel, and commanded his Mi<g ref="char:EOLhyphen"/>niſters to acquaint the world of this love of God</p>
+            <p>Now albeit he had been one of the worſt of men, and plunged himſelf into the ſea of God's wrath, and was on the brink of eternity, and dropping into eternal miſery, and a ſeparation from the preſence of the Lord. Yet ſo large were the mercies of God to poor ſinners in Chriſt, and for his ſake, that if he could now but re<g ref="char:EOLhyphen"/>ceive
+<pb n="25" facs="tcp:150223:14"/>Chriſt on his terms, to be guided by him, ſanctified and ſaved, and by repentance could loath the deareſt ſins he had lived in, and by the ſpirit of grace raiſe up his heart to full purpo<g ref="char:EOLhyphen"/>ſes of newneſs of life: God had a<g ref="char:EOLhyphen"/>bundantly promiſed, that though his ſins were as red as ſcarlet, yet he would make them as white as wool; and where ſin had abounded, grace ſhould ſuper-abound, and though he came in the Vine-yard at the eleventh hour, the laſt week of his life, yet ſhould he have the penny; and he exhorted him to ſtretch out the de<g ref="char:EOLhyphen"/>ſires of his ſoul towards Jeſus Chriſt, &amp; lay the ſtreſs of his happineſs on his blood ſhed &amp; merits, and then though God had been alwayes angry with him for his wickedneſs, yet he al<g ref="char:EOLhyphen"/>wayes loved Chriſt, and through Chriſt he would love him, and pray<g ref="char:EOLhyphen"/>ed him willingly to chuſe Chriſt for his Prieſt to ſatisfie God for his ſin;
+<pb n="26" facs="tcp:150223:15"/>and his King and Lord to ſave him from ſin and Satan, and under his ſhadow to go to the Father: and as the Prodigal did confeſs his ſin, and then there was hope concerning his ever<g ref="char:EOLhyphen"/>laſting happineſs; as he had made the pleaſing of his fleſh to be his happi<g ref="char:EOLhyphen"/>neſs in the ſins of drunkenneſs, ſo now make God thy chiefeſt good, and Chriſt the way to enjoy him, and it will be well with thee: commit thy ſoul into his hands, as into the hands of a merciful Redeemer, and the Lord be thy everlaſting portion in Heaven. And after the fulleſt ex<g ref="char:EOLhyphen"/>preſſions on his part to chuſe God for his God, and rely on Chriſt for re<g ref="char:EOLhyphen"/>demption; They parted with many ſweet wiſhes for an happy meeting in Heaven, and with the ſtirring of much affection of thoſe that ſtood by.</p>
+            <p>One offered him ſome drink which he refuſed, and ſaid, I have but two
+<pb n="27" facs="tcp:150223:15"/>breaths to fetch, and do you ſtop me now, &amp; hinder me, away away; then he exhorted to leave ſin and get Chriſt, all that come to him that he knew had been his Companions; and encouraged the godly in their religious ways. And fell into ſerious Prayer for ſaving grace, and for the holy Spirit, and that Chriſt would ſave his ſoul, of<g ref="char:EOLhyphen"/>tentimes repeating this word, Blot me not out of thy remembrance good God. And he ſaid, it is an hard work I am upon, but a ſweet work; then he cryed, Oh tell my Companions, and warn them to get Chriſt, and not to put off repentance ſo long as I have done! And looked on his Siſter <hi>Do<g ref="char:EOLhyphen"/>rothy,</hi> and earneſtly intreated her to <hi>Sound out his Repentance;</hi> for ſaid he, The Town knoweth that I have been a wicked ſinner, this he ſaid ſeveral times; and feeling death near, he ſaid to his friends that ſtood by. Come now one faithfull Prayer at the laſt,
+<pb n="28" facs="tcp:150223:16"/>one faithful Prayer at the laſt; he then prayed more ſilently, and continued till death ſeiſed on him. The laſt Petition he was hearp to ſay was this, <hi>Come Lord Jeſus and meet me, Now come my Chriſt;</hi> and ſo he fell aſleep (we hope in the Lord) about one of the Clock in the morning, <hi>Feb.</hi> 21. 1668.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150223:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
